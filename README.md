@@ -13,4 +13,23 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--># Ramon
+
+Frontend developer learning JavaScript, React & Solidity.
+
+## Currently Learning
+- JavaScript
+- React
+- Solidity
+
+## Building
+- futuristic portfolio websites
+- cinematic UIs
+- web3 inspired interfaces
+
+## Tech Stack
+HTML • CSS • JavaScript
+
+## Connect With Me
+- X/Twitter: @Arem_ee
+- Telegram: @Arem_ee
